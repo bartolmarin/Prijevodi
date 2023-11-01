@@ -1,0 +1,182 @@
+
+Svatko voli svakoga.
+Svatko voli nekoga.
+Netko voli svakoga.
+Nitko ne voli svakoga.
+Ne voli svatko svakoga.
+Nitko nikoga ne voli.
+Nije da nitko ne voli svakoga.
+Nije da nitko nikoga ne voli.
+Netko nije takav da nikoga ne voli.
+Nema onih koji nisu takvi da nikoga ne vole.
+Nekoga nitko ne voli.
+Nekoga ne voli svatko.
+Nema onih koje svatko voli.
+Nitko nije voljen od nekoga.*
+Nikoga ne voli svatko.
+Netko voli sebe.
+Netko ne voli sebe.
+Svatko voli sebe.
+Nitko ne voli sebe.
+Svatko voli one koje mrzi.
+Svatko voli one koji ga mrze.
+Svatko mrzi samo one koji vole sebe.
+Tko mrzi nekoga, taj voli sebe.
+Oni koji mrze sebe, vole svakoga.
+Svatko voli one koji sebe mrze.
+Tko sebe mrzi, taj sebe i voli.
+Sebe mrze samo oni koji sebe ne vole.
+Tko sebe ne mrzi, taj sebe ne voli.
+Sebe ne mrze samo oni koji sebe vole.
+Nitko ne voli one koje mrzi.
+Nitko ne voli one koji ga mrze.
+Oni koje netko mrzi ne vole sebe.
+Oni koji mrze nekoga ne vole sebe.
+Nikoga ne vole oni koji mrze sebe.
+Nitko ne voli one koji mrze sebe.
+Oni koji mrze svakoga, ne vole nikoga.
+Oni koji mrze svakoga, ne vole svakoga.
+Nitko ne voli one koji mrze svakoga.
+Ne voli svatko one koji mrze svakoga.
+Oni koji mrze svakoga ne vole nekoga.
+Za one koji mrze svakoga ne postoji netko koga vole.
+One koji mrze svakoga netko ne voli.
+Oni koji mrze svakoga nemaju nekoga tko ih voli.
+Ako svatko mrzi svakoga, onda nitko nikoga ne voli.
+Ako svatko mrzi svakoga, onda ne voli svatko svakoga.
+Ako svatko mrzi svakoga, onda netko nekoga ne voli.
+Svatko mrzi svakoga samo ako nema nekoga koji nekoga voli.
+Ako nitko nikoga ne mrzi, onda ima onih koji ne vole nikoga.
+Netko opak voli svakoga.
+Netko tko nije opak voli svakoga.
+Netko opak ne voli nikoga.
+Netko opak ne voli svakoga.
+Netko opak nema nekoga koga voli.
+Nekog opakog voli netko.
+Netko opak voli sebe.
+Netko opak ne voli sebe.
+Nema opakih koji ne vole sebe.
+Nitko nije opaki koji ne voli sebe.
+Tko je opak, taj ne voli nekog blagog.
+Oni koji nisu opaki ne vole neke blage.
+Opaki su samo oni koji ne vole neke koji nisu blagi.
+Svatko opak voli nekoga tko nije blag.
+Nitko opak ne voli nijednog blagog.
+One koji su opaki nitko tko je blag ne voli.
+Neke opake nijedan blagi ne voli.
+Neki opaki ne vole nijednog blagog.
+Neki opaki vole svakog blagog.
+Neke opake vole svi blagi.
+Ima opakih koji ne vole neke blage.
+Ima opakih koje neki blagi ne vole.
+Neki opaki vole neke blage.
+Ima opakih koje vole neki blagi.
+Nema opakih koje vole neki blagi.
+Nitko ne voli druge. ("Pakao, to su drugi. (Sartre))
+Svatko voli sve druge.
+Svatko ne voli samo one koji nisu on sam.
+Svatko voli samo one koji nisu on sam.
+Nitko ne voli sebe.
+Svatko voli sebe.
+Svatko voli samo sebe.
+Netko voli nekoga drugoga.
+Netko voli sebe.
+Netko ne voli nekoga drugoga.
+Netko ne voli sebe.
+Svatko blag je opasan.
+Nitko blag nije opasan.
+Oni koji nisu blagi nisu ni opasni.
+Oni koji nisu blagi, jesu opasni.
+Svatko je blag i opasan.
+Svatko je blag no nitko nije opasan.
+Nitko nije ni blag ni opasan.
+Nitko nije i blag i opasan.
+Svatko je blag ili opasan.
+Svatko je blag ili je svatko opasan.
+Blagi su oni i samo oni koji su opasni.
+Nisu svi blagi opasni.
+Nije da nitko blag nije opasan.
+Nije da oni koji nisu blagi nisu opasni.
+Nije slučaj da su opasni oni koji nisu blagi.
+Nije svatko blag i opasan.
+Nije da nitko nije ni blag ni opasan.
+Nije da nitko nije i blag i opasan.
+Nije svatko blag ili opasan.
+Netko je blag i opasan.
+Netko blag nije opasan.
+Netko nije blag niti je opasan.
+Netko nije blag i opasan.
+Netko je blag ili je opasan.
+Netko je blag ili je netko opasan.
+Ne postoje blagi koji su opasni.
+Nema blagih koji nisu opasni.
+Ne postoji onaj koji nije niti blag niti opasan.
+Nema takvog koji nije i blag i opasan.
+Nema blagih ili nema opasnih.
+Netko nije blag ili netko nije opasan.
+Barem su dva opasna.
+Najviše je jedan opasan.
+Samo je jedan opasan.
+Barem je tri mušketira.
+Najviše je dva opasna.
+Točno su dva opasna.
+Samo bradati su tužni. 
+Bradati su oni koji su tužni. 
+Ako je netko tužan, on je bradat. 
+Tko je god tužan, bradat je. 
+Tužni su samo oni koji su bradati. 
+Oni tužni su i bradati. 
+Samo oni koji nisu bradati jesu tužni. 
+Nisu bradati oni koji su tužni. 
+Ako netko nije bradat, on je tužan. 
+Tko god nije bradat, tužan je. 
+Tužni su samo oni koji nisu bradati. 
+Oni tužni nisu bradati. 
+Nitko nije tužan i bradat. 
+Ne postoje tužni koji su bradati. 
+Neki bradati su tužni. 
+Neki tužni su bradati. 
+Ima tužnih bradonja koji su mlakonje. 
+Ima tužnih mlakonja koji nisu bradonje. 
+Nijedan tužni bradonja nije tužni mlakonja. 
+Nijedan tužni mlakonja nije bradonja. 
+Nijedan bradonja nije tužni mlakonja. 
+Nijedan mlakonja nije tužni bradonja. 
+Svaki je bradonja tužni mlakonja. 
+Bradonje su samo oni koji su tužni mlakonje. 
+Tužni mlakonje su oni koji su bradonje. 
+Tko je god bradonja, taj je i tužni mlakonja. 
+Ako je netko bradonja, tužni je mlakonja. 
+Svaki je mlakonja tužni bradonja. 
+Mlakonje su samo oni koji su tužni bradonje. 
+Tužni bradonje su oni koji su mlakonje. 
+Tko je god mlakonja, tužni je bradonja. 
+Ako je netko mlakonja, tužni je bradonja. 
+Svatko tužan je bradonja i mlakonja. 
+Tužni su samo oni koji su mlakonje i bradonje. 
+Mlaki bradonje su oni koji su tužni. 
+Tko je god tužan, mlaki je bradonja. 
+Ako je netko tužan, mlaki je bradonja. 
+Bio netko mlakonja, bio on bradonja, tužan je. 
+Svatko tko je mlakonja ili bradonja, tužan je. 
+Samo oni tužni jesu mlakonje ili bradonje. 
+Mlakonja ili bradonja je onaj koji je tužan. 
+Svaka je mačka pitoma ili divlja. 
+Mačke su samo one koje su pitome ili divlje. 
+One mačke koje nisu pitome, jesu divlje. 
+Svaka mačka koja nije pitoma jest divlja. 
+Nitko nije luđi od Hamleta. 
+Hamlet je luđi od svakoga. 
+Hamlet je luđi od svakoga drugoga. 
+Hamlet ni od koga nije luđi. 
+Iako nitko nije luđi od Hamleta, on je od svakoga pametniji. 
+Divlji Hamlet pametniji je od mlakog Polonija. 
+Od divljeg Hamleta nitko nije luđi. 
+Divlji je Hamlet luđi od nekoga. 
+Iako Ofelija nije luđa od Hamleta, jest luđa od nekoga. 
+Hamlet nije pametniji od onih koji su od njega luđi. 
+Hamlet nije pametniji od onih od kojih je luđi. 
+Hamlet je pametniji od onih koji od njega nisu luđi. 
+Hamlet je pametniji od onih od kojih nije luđi. 
+Hamlet je pametniji samo od onih od kojih nije luđi. 
+Hamlet je pametniji samo od onih koji od njega nisu luđi. 
