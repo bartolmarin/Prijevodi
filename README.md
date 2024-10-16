@@ -10,11 +10,11 @@ Vaša rješenja bilježe se u dokumentu kojega ste na početku igre stvorili a n
 
 Upute za korištenje (Linux):
 
+``` bash
 $ git clone https://github.com/bartolmarin/Prijevodi.git
-
 $ cd Prijevodi/
-
 $ python prijevodi.py
+```
 
 
 
