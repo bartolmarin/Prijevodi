@@ -27,7 +27,7 @@ o2.place(x=50,y=300)
 ob=Label(prozor,text="Napišite prijevod rečenice koja je zadana: ",font=("Roboto", 13))
 ob.place(x=50, y=350)
 b=Entry(prozor,width=50,font=15)
-b.place(x=400,y=350)
+b.place(x=430,y=350)
 o3=Label(prozor,text="Vaš odgovor:",font=("Roboto", 15))
 o3.place(x=50,y=500)
 o4=Label(prozor,text="Očekivani odgovor:",font=("Roboto",15))
@@ -138,9 +138,9 @@ def lprnaobicni():
         global f
         f.write('\n\n\n'+"============ Kraj ============= "+'\n\n\n')
     z=Button(prozor, text="PritisniMe", font=("Roboto"), command=glavno)
-    z.place(x=900,y=300)
+    z.place(x=930,y=300)
     g=Button(prozor, text="Priloži rješenje", command=rezultat)
-    g.place(x=900,y=350)
+    g.place(x=930,y=350)
     kraj=Button(prozor, text="Ako ti  je dosta, prvo mene stisni pa utipkaj 'q'!", command=zavrsi)
     kraj.place(x=100,y=800)
     #Ovo bi trebalo nakon <Return> pokrenuti glavno() ili rezultat(), ne znam... u svakom slučaju, da ne klikamo gumb, nego tipke
@@ -231,9 +231,9 @@ def obicninalpr():
         global f
         f.write('\n\n\n'+"============ Kraj ============= "+'\n\n\n')
     z=Button(prozor, text="PritisniMe", font=("Roboto"), command=glavno)
-    z.place(x=900,y=300)
+    z.place(x=930,y=300)
     g=Button(prozor, text="Priloži rješenje", command=rezultat)
-    g.place(x=900,y=350)
+    g.place(x=930,y=350)
     kraj=Button(prozor, text="Ako ti  je dosta, prvo mene stisni pa utipkaj 'q'!", command=zavrsi)
     kraj.place(x=100,y=800)
     #Ovo bi trebalo nakon <Return> pokrenuti glavno() ili rezultat(), ne znam... u svakom slučaju, da ne klikamo gumb, nego tipke
