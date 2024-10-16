@@ -193,7 +193,7 @@ def obicninalpr():
         oodgovor.place_forget()
         oocekivano.place_forget()
 
-        odgovor=str(b.get())
+        odgovor=str(b.get()).replace("(", " ( ")
         odgovor=list(map(str,odgovor.split()))
         for j in range(len(odgovor)):
             if odgovor[j]=='svi':
