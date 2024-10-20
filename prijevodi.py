@@ -32,20 +32,6 @@ prozor.title('Prijevodi')
 prozor.config(width=1000, height=500, bg="#1F3951")
 prozor.resizable(True, True)
 
-# Za stezanje i širenje prozora
-
-#prozor.grid_rowconfigure(0, weight=1)
-prozor.grid_columnconfigure(1, weight=2)
-
-
-# === SLIKE === moraš dodati resource_path() zbog pyinstallera!!! da ga može pronaći
-pritisnime=ImageTk.PhotoImage(file=resource_path("pritisnime.png"))
-prilozirjesenje=ImageTk.PhotoImage(file=resource_path("prilozirjesenje.png"))
-p1=ImageTk.PhotoImage(file=resource_path("p1.png"))
-p2=ImageTk.PhotoImage(file=resource_path("p2.png"))
-
-
-
 
 # === MENI ===
 
@@ -230,44 +216,6 @@ def smjer(s_jezika,na_jezik):
         global f
         f.write('\n\n\n'+"============ Kraj ============= "+'\n\n\n')
 
-    z=Gumb(prozor,image=pritisnime, cursor="hand1", command=glavno)
-    z.config(borderwidth=0,  highlightthickness=0, pady=0, padx=0)
-    z.grid(row=3 ,column=2)
-
-    g=Gumb(prozor,image=prilozirjesenje, cursor="hand1", command=rezultat)
-    g.config(borderwidth=0,  highlightthickness=0, pady=0, padx=0)
-    g.grid(row=4 ,column=2)
-    
-    kraj=Gumb(prozor, cursor="hand1", text="Ako ti  je dosta, prvo mene stisni pa utipkaj 'q'!", bg="#e7c96b", fg="#eff0b9", borderwidth=0,  highlightthickness=0, command=zavrsi)
-    kraj.grid(row=7 ,column=0)
-    
-    #Ovo bi trebalo nakon <Return> pokrenuti glavno() ili rezultat(), ne znam... u svakom slučaju, da ne klikamo gumb, nego tipke
-    b.bind('<Return>',lambda event: rezultat())
-
-
-    prozor.bind('q', lambda event:prozor.destroy())
-
-
-def lprnaobicni():
-    smjer("lpr","obicni")
-def obicninalpr():
-    smjer("obicni","lpr")
-
-
-
-#===============EKSPERIMENT KRAJ=========================
-
-
-
-
-
-#====== UPUTE ZA UNOS SIMBOLA -  desno =============
-
-
-
-kljuc = ImageTk.PhotoImage(Image.open(resource_path("kluc.png")))
-slika = MjestoMoje(prozor, image = kljuc,borderwidth=0, pady=0, padx=0, anchor="nw")
-slika.grid(row=1,rowspan=6, column=3, sticky="NS")
 
 
 #====== Odabirenje vrste igre ===========
