@@ -160,7 +160,7 @@ Ako je netko tužan, mlaki je bradonja.
 Bio netko mlakonja, bio on bradonja, tužan je. 
 Svatko tko je mlakonja ili bradonja, tužan je. 
 Samo oni tužni jesu mlakonje ili bradonje. 
-Mlakonja ili bradonja je onaj koji je tužan. 
+Mlakonja ili bradonja je samo onaj koji je tužan. 
 Svaka je mačka pitoma ili divlja. 
 Mačke su samo one koje su pitome ili divlje. 
 One mačke koje nisu pitome, jesu divlje. 
